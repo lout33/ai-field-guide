@@ -152,8 +152,8 @@ But it is one of the best tools for the job most solo developers do all day: kee
 
 ## Related pages
 
-- [`../personas/solo-developer.md`](../personas/solo-developer.md)
-- [`../stacks/$40-solo-dev-stack.md`](../stacks/$40-solo-dev-stack.md)
+- [`../personas/indie-hacker.md`](../personas/indie-hacker.md)
+- [`../stacks/$40-indie-hacker-stack.md`](../stacks/$40-indie-hacker-stack.md)
 - [`./claude-code.md`](./claude-code.md)
 - [`../use-cases/build-a-web-app.md`](../use-cases/build-a-web-app.md)
 - [`../use-cases/refactor-a-large-codebase.md`](../use-cases/refactor-a-large-codebase.md)

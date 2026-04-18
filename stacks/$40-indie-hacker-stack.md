@@ -1,16 +1,16 @@
-# The $40 Solo Dev Stack
+# The $40 Indie Hacker Stack
 
-A practical default stack for solo developers who want real leverage without turning their workflow into a pile of overlapping subscriptions.
+A practical default stack for indie hackers who want to ship faster without turning their workflow into a pile of overlapping subscriptions.
 
 ## Who this is for
 
-This stack is for the solo developer who:
+This stack is for the indie hacker who:
 
-- wants to ship faster
-- codes regularly, not just occasionally
+- wants to launch faster
+- is building a product, not just experimenting with tools
 - needs help with both implementation and reasoning
 - wants a stack that is strong enough to matter, but cheap enough to justify early
-- is not ready to spend $100–200+ per month on AI tooling
+- is not ready to spend $100–200+ per month on AI tooling before validation
 
 This is not the absolute cheapest possible stack.
 It is the first stack that starts to feel like a real advantage.
@@ -20,12 +20,12 @@ It is the first stack that starts to feel like a real advantage.
 At this price point, the goal is not to buy every promising tool.
 The goal is to cover the two jobs that matter most:
 
-1. **daily coding flow**
-2. **heavy reasoning / repo-wide work**
+1. **daily product-building flow**
+2. **heavier reasoning / repo-wide work**
 
 That leads to the strongest recurring pairing from the research:
 
-- **Cursor Pro** — for daily coding
+- **Cursor Pro** — for daily coding and iteration
 - **Claude Pro / Claude Code access** — for heavier work
 
 That is the core of the $40 stack.
@@ -87,23 +87,23 @@ This is a better model than trying to force one tool to do everything.
 
 ## What this stack is good at
 
-- building and iterating on real projects
-- shipping web apps and internal tools
+- building and iterating on real products
+- shipping MVPs and web apps
 - moving faster on familiar patterns
 - handling small and medium refactors
 - reducing the cost of context switching between planning and implementation
-- giving solo developers more leverage without a huge monthly burn
+- giving indie hackers more leverage without a huge monthly burn
 
 ## What this stack is bad at
 
 - guaranteed predictable usage at very high volume
-- replacing engineering judgment
+- replacing product judgment
 - deep debugging with zero supervision
 - super long sessions without context degradation
 - working well if you never maintain project context files
 
 This stack is also not ideal for people who:
-- barely code every week
+- are still only casually exploring
 - want fully free tooling only
 - dislike terminal workflows entirely
 - expect AI to work unattended without review
@@ -157,7 +157,7 @@ This usually creates noise, not leverage.
 
 ### Avoid premium plans before real need
 A $100–200 plan can be worth it for heavy users.
-But many solo developers should not start there.
+But many indie hackers should not start there.
 
 ### Avoid spending heavily before validation
 If the project has no users and no real momentum yet, the default should still be restraint.
@@ -165,7 +165,7 @@ If the project has no users and no real momentum yet, the default should still b
 ## When this stack is enough
 
 This stack is enough when:
-- you are building solo
+- you are building a product solo or near-solo
 - your app is still early or pre-revenue
 - you need help thinking and coding
 - you want a serious setup without serious monthly burn
@@ -178,7 +178,7 @@ You should consider upgrading beyond this stack when:
 - you are hitting rate limits regularly
 - heavy coding sessions are now a daily norm
 - the tools are clearly saving enough time to justify more spend
-- the project has revenue and tool cost is no longer the main constraint
+- the product has revenue and tool cost is no longer the main constraint
 
 Typical next upgrades:
 - stronger Claude tier
@@ -190,15 +190,15 @@ Typical next upgrades:
 
 You should downgrade or simplify when:
 - you are paying for both tools but mostly using one
-- you are in exploration mode, not shipping mode
+- you are still in exploration mode, not shipping mode
 - the monthly cost feels emotionally noisy relative to the value delivered
 
-A lot of solo developers discover they only need one paid AI tool for a while.
+A lot of indie hackers discover they only need one paid AI tool for a while.
 That is fine.
 
 ## The practical recommendation
 
-If you are a solo developer and want one clean default, start here:
+If you are an indie hacker and want one clean default, start here:
 
 - **Cursor Pro**
 - **Claude Pro / Claude Code**
@@ -209,7 +209,7 @@ That is enough to do serious work.
 
 ## Verdict
 
-The $40 solo dev stack is probably the best default paid starting point for a technical solo builder in 2026.
+The $40 indie hacker stack is probably the best default paid starting point for a technical builder in 2026.
 
 It is:
 - small
@@ -225,7 +225,7 @@ But it covers the two most important needs:
 
 ## Related pages
 
-- [`../personas/solo-developer.md`](../personas/solo-developer.md)
+- [`../personas/indie-hacker.md`](../personas/indie-hacker.md)
 - [`../tools/cursor.md`](../tools/cursor.md)
 - [`../tools/claude-code.md`](../tools/claude-code.md)
 - [`../use-cases/build-a-web-app.md`](../use-cases/build-a-web-app.md)

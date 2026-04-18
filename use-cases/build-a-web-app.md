@@ -192,7 +192,7 @@ If you are still validating the idea:
 - free infra where possible
 - avoid premium plans until usage or revenue justifies them
 
-See: [`../stacks/$40-solo-dev-stack.md`](../stacks/$40-solo-dev-stack.md)
+See: [`../stacks/$40-indie-hacker-stack.md`](../stacks/$40-indie-hacker-stack.md)
 
 ## What to avoid
 
@@ -275,8 +275,8 @@ Right now, the clearest default path is:
 
 ## Related pages
 
-- [`../personas/solo-developer.md`](../personas/solo-developer.md)
-- [`../stacks/$40-solo-dev-stack.md`](../stacks/$40-solo-dev-stack.md)
+- [`../personas/indie-hacker.md`](../personas/indie-hacker.md)
+- [`../stacks/$40-indie-hacker-stack.md`](../stacks/$40-indie-hacker-stack.md)
 - [`../tools/cursor.md`](../tools/cursor.md)
 - [`../tools/claude-code.md`](../tools/claude-code.md)
 - [`./refactor-a-large-codebase.md`](./refactor-a-large-codebase.md)

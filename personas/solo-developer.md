@@ -166,7 +166,7 @@ Why this lane matters:
 
 This should probably be the default recommendation for many readers.
 
-See: [`../stacks/$40-solo-dev-stack.md`](../stacks/$40-solo-dev-stack.md)
+See: [`../stacks/$40-indie-hacker-stack.md`](../stacks/$40-indie-hacker-stack.md)
 
 ## ~$100–120 working stack
 This is where many solo developers end up once they are shipping regularly.
@@ -242,7 +242,7 @@ Right now, the strongest default pattern is:
 
 ## Related pages
 
-- [`../stacks/$40-solo-dev-stack.md`](../stacks/$40-solo-dev-stack.md)
+- [`../stacks/$40-indie-hacker-stack.md`](../stacks/$40-indie-hacker-stack.md)
 - [`../use-cases/build-a-web-app.md`](../use-cases/build-a-web-app.md)
 - [`../use-cases/refactor-a-large-codebase.md`](../use-cases/refactor-a-large-codebase.md)
 - [`../tools/claude-code.md`](../tools/claude-code.md)
