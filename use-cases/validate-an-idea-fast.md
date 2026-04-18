@@ -56,6 +56,23 @@ The principle is simple:
 - ship something testable
 - avoid complexity before proof
 
+## The real validation question
+
+Before you build anything, ask:
+
+> what is the cheapest believable proof that this problem is worth solving?
+
+That proof might be:
+- email signups
+- replies from a specific target user
+- people clicking a pricing button
+- people completing a workflow
+- people coming back after first use
+- one person paying for a rough version
+
+A lot of wasted indie-hacker effort comes from picking the wrong proof.
+People build a product when a landing page would have been enough, or they build a landing page when the real question required a usable workflow.
+
 ## What to optimize for during validation
 
 ## 1. Time to first real signal
@@ -122,6 +139,40 @@ Watch out for:
 - adding backend complexity for a problem that could have been tested with a form and email
 - confusing “I built a lot” with “I learned something”
 
+## Choose the lightest valid test
+
+Not every idea deserves the same type of validation.
+
+### Level 1: Landing page / fake door
+Use this when you are testing:
+- positioning
+- demand language
+- click intent
+- signup intent
+
+Good for:
+- simple products
+- clear pain points
+- ideas where the promise is easy to understand quickly
+
+### Level 2: Thin prototype
+Use this when users need to see the product shape to react honestly.
+
+Good for:
+- workflow tools
+- UI-heavy products
+- products where the value is easier to feel than explain
+
+### Level 3: Narrow usable MVP
+Use this when the only real validation is usage.
+
+Good for:
+- tools that solve an operational pain
+- products where users must complete a task before they can judge value
+- products where willingness to return matters more than first-click curiosity
+
+The mistake is jumping to Level 3 by default.
+
 ## A practical validation workflow
 
 ## Step 1: sharpen the idea
@@ -149,6 +200,8 @@ Sometimes the fastest validation move is:
 The question is:
 
 > what is the smallest thing that can generate honest signal?
+
+If you cannot answer that question clearly, the project is probably still too fuzzy.
 
 ## Step 3: build the narrow version
 Use Cursor for:
@@ -186,6 +239,26 @@ Weaker signals:
 - generic compliments
 - other builders saying they might use it someday
 
+## A simple evidence ladder
+
+From weakest to strongest:
+
+1. people say it sounds interesting
+2. people click a link
+3. people give you an email
+4. people reply with a real problem or question
+5. people try the product
+6. people come back
+7. people pay
+
+Validation gets stronger as the user gives up something real:
+- attention
+- time
+- workflow effort
+- money
+
+That is why payment, repeated usage, and direct objections are much more valuable than polite enthusiasm.
+
 ## Step 6: cut or double down fast
 Once real signal shows up, the next question is simple:
 - keep going
@@ -194,6 +267,25 @@ Once real signal shows up, the next question is simple:
 - drop the idea
 
 Validation only works if you are willing to learn from the answer.
+
+## A 48-hour indie-hacker validation loop
+
+If you want a concrete default, this is a strong pattern:
+
+### Day 1
+- define the audience and pain clearly
+- use Claude Code to pressure-test the idea and narrow the MVP
+- choose the lightest valid test
+- sketch the landing page or thin product flow
+
+### Day 2
+- use Cursor to build the narrow version quickly
+- deploy immediately on Vercel
+- send it to real people or put it in front of real traffic
+- collect replies, signups, clicks, or usage
+
+The point is not that 48 hours is magical.
+The point is to stop validation from stretching into a two-week coding project with no new information.
 
 ## What tools matter most here
 
@@ -224,6 +316,23 @@ Useful when the idea actually needs:
 - backend state
 
 Not every validation project needs this on day one.
+
+## When not to build at all yet
+
+Sometimes the right validation move is not building.
+
+Do not start coding yet if:
+- you still cannot explain who this is for
+- you do not know what pain is urgent enough to matter
+- you are using code generation to avoid talking to users
+- the product idea changes radically every few hours
+- the only proof you want is your own excitement
+
+In those cases, the next best move is usually:
+- sharper positioning
+- talking to users
+- collecting objections
+- testing demand with a simpler surface
 
 ## What to avoid
 
@@ -273,6 +382,12 @@ Right now, the best default path is:
 - deploy early
 - measure real behavior
 - resist the urge to overbuild
+
+The real rule is simple:
+
+> validation should increase evidence faster than it increases complexity.
+
+If AI is helping you produce complexity faster than evidence, it is hurting the project.
 
 ## Related pages
 

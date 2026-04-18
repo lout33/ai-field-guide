@@ -1,10 +1,41 @@
 # AI Field Guide
 
-**A practical guide for indie hackers using AI to ship products faster.**
+**Build faster with AI. Spend less on hype.**
 
-AI Field Guide is a curated, opinionated project about choosing the right AI tools and stacks for real product work.
+Most indie hackers do not need more AI tools.
+They need a **small, sane stack** that helps them go from idea to launched product without wasting money on overlapping subscriptions, workflow theater, and shiny tools they will stop using in two weeks.
+
+AI Field Guide is a practical, opinionated repo for choosing that stack.
 
 **Current v1 focus:** helping indie hackers choose the right AI tools and stacks to ship faster, validate faster, and waste less money.
+
+## Who this is for
+
+This repo is mainly for:
+
+- indie hackers
+- solo technical founders
+- developers building products with limited time and limited budget
+- people who are overwhelmed by AI tool sprawl and want a sane default
+
+If your goal is to launch, validate, and reach revenue — not just collect tools — this guide is for you.
+
+## The problem this repo solves
+
+Most AI-tool advice for builders is one of three things:
+
+- generic listicles
+- benchmark talk disconnected from real workflows
+- hype from people who do not have to care about burn, simplicity, or launch speed
+
+That leaves builders with the wrong questions:
+
+- Should I use Cursor, Claude Code, Copilot, Windsurf, or all of them?
+- How much should I actually spend before revenue?
+- What helps me validate faster instead of just build more?
+- What stack is good enough right now?
+
+This repo exists to answer those questions with judgment, not just options.
 
 ## Start here
 
@@ -16,6 +47,15 @@ If you are new to the repo, start with these pages:
 4. [`use-cases/build-a-web-app.md`](use-cases/build-a-web-app.md) — how to use AI to actually build and ship
 5. [`tools/cursor.md`](tools/cursor.md) — daily coding tool
 6. [`tools/claude-code.md`](tools/claude-code.md) — heavier reasoning and repo-wide work
+
+## What this guide believes
+
+- most people should start with fewer tools, not more
+- validation matters more than polish
+- the best stack is the one that helps you ship this week
+- expensive overlap is usually a mistake
+- AI should reduce friction, not create a second system to manage
+- a tool is only good if it stays useful after the first week of hype
 
 ## Why this exists
 
